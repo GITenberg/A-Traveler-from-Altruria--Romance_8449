@@ -1,0 +1,36 @@
+_repo: A-Traveler-from-Altruria--Romance_8449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "A Traveler from Altruria is a Utopian novel by William Dean Howells.\
+  \ It was first published in installments in The Cosmopolitan between November 1892\
+  \ and October 1893, and eventually in book form by Harper & Brothers in 1894. The\
+  \ novel is a critique of unfettered capitalism and its consequences, and of the\
+  \ Gilded Age.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8449'
+  wikidata: Q4660271
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopian fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social conditions -- 1865-1918 -- Fiction'
+- GITenberg
+title: 'A Traveler from Altruria: Romance'
+url: http://www.gutenberg.org/ebooks/8449
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Traveler_from_Altruria
