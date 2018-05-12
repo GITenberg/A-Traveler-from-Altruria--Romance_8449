@@ -1,5 +1,8 @@
 _repo: A-Traveler-from-Altruria--Romance_8449
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -16,6 +19,8 @@ description: "A Traveler from Altruria is a Utopian novel by William Dean Howell
   \ and October 1893, and eventually in book form by Harper & Brothers in 1894. The\
   \ novel is a critique of unfettered capitalism and its consequences, and of the\
   \ Gilded Age.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8449#A-Traveler-from-Altruria--Romance
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
